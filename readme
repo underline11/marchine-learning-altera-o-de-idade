@@ -1,0 +1,26 @@
+# Projeto Alteração de Idade
+
+## Descrição
+
+O projeto "Alteração de Idade" é uma aplicação em Python que permite a alteração da idade de um usuário em um sistema de cadastro. O projeto foi desenvolvido para praticar conceitos básicos de programação, incluindo entrada e saída de dados, manipulação de listas e funções.
+
+## Funcionalidades
+
+- **Cadastro de Usuários**: Permite adicionar novos usuários com nome e idade.
+- **Alteração de Idade**: Permite alterar a idade de um usuário existente.
+- **Listagem de Usuários**: Exibe todos os usuários cadastrados e suas idades.
+
+## Tecnologias Utilizadas
+
+- Python 3.x
+
+## Requisitos
+
+- Python 3.6 ou superior
+
+## Instalação
+
+1. Clone o repositório:
+
+   
+   git clone https://github.com/seu-usuario/alteracao-idade.git
